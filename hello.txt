@@ -1,1 +1,2 @@
 hello this is new file hello.txt in master
+this is second line now added
